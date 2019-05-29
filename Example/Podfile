@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+
+source 'https://github.com/josh7/YBXibView.git'
+source 'https://github.com/CocoaPods/Specs.git'
+# source 'https://git.code.tencent.com/YBiOS/YBShedule.git'
+
+use_frameworks!
+
+target 'YBXibViewExample' do
+
+# pod 'YBShedule', :git => 'https://git.code.tencent.com/YBiOS/YBShedule.git', :tag => '0.0.3'
+ 
+end
